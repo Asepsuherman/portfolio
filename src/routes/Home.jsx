@@ -52,8 +52,9 @@ export default function Home() {
             </div>
 
                 <div className='px-8 pb-2 '>
-                    <div className=' mt-28 grid grid-cols-1 gap-10 lg:flex lg:flex-cols  rounded-xl bg-ungutua'>
-                        <div className=' lg:w-[48%] lg:h-[500px] bg-navi rounded-xl'>
+                    <div className=' mt-28 grid grid-cols-1 md:grid-cols-2  gap-10  rounded-xl bg-ungutua'>
+                        {/* ini */}
+                        <div className='  bg-navi rounded-xl'>
                             <div className="w-full text-center" >
                                 <div className="relative flex flex-col break-words w-full ">
                                     <div className="px-6 p-4 ">
@@ -85,7 +86,7 @@ export default function Home() {
                             </div>
                         </div>
 
-                        <div className='lg:w-[48%] lg:h-[500px] p-4 border border-navi rounded-xl'>
+                        <div className=' p-4 border border-navi rounded-xl'>
                             <div className=''>
                                 <h1 className='font-bold'>Asep Suherman</h1>
                                 <h3 className='text-sm italic'>Junior Front End</h3>
@@ -140,10 +141,8 @@ export default function Home() {
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
+                        {/* ok */}
 
-            <div className='p-8 grid sm:grid-cols-2 md:grid-cols-2 gap-10 font-semibold'>
                 <div className='border border-navi rounded-xl p-4'>
                     <div className='text-center md:text-left'>
                         <h1 className='font-extrabold'>Organisasi :</h1>
@@ -280,10 +279,6 @@ export default function Home() {
                     </div>
                 </div>
 
-
-
-
-
                 <div className='border border-navi rounded-xl p-4'>
                     <div className='text-center md:text-left'>
                         <h1 className='font-extrabold'>Daftar Projek :</h1>
@@ -308,7 +303,13 @@ export default function Home() {
                         </li>
                     </ol>
                 </div>
-            </div>
+                {/* aaaa */}
+                    </div>
+                </div>
+
+            {/* <div className='p-8 grid sm:grid-cols-2 md:grid-cols-2 gap-8 font-semibold'>                
+            </div> */}
+
         </div>
 
         {/* BATAS */}
