@@ -152,32 +152,32 @@ export default function Home() {
                                 <li data-content="●" className="w-full step step-warning text-warning mb-4 text-sm font-normal">
                                     <div className='w-80 sm:w-96 md:w-full lg:w-full flex justify-between md:grid lg:h-max lg:grid bg-oren  rounded-xl rounded-r-3xl sm:rounded-r-3xl md:rounded-r-xl lg:rounded-r-xl md:rounded-b-3xl lg:rounded-b-3xl'>
                                         <h3 className='rotate-90 sm:rotate-0 md:rotate-0 lg:rotate-0 md:p-1 lg:p-1 mx-auto my-auto text-putihtua font-bold'>2020-Sekarang</h3>
-                                        <div className=' w-60 lg:w-60  border border-navi p-4 rounded-xl bg-navi'>
+                                        <div className=' w-60 lg:w-60 h-20 border border-navi p-4 rounded-xl bg-navi'>
                                             <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
                                         </div>
                                     </div>
                                 </li>
-                                <li data-content="●" className="w-full step step-warning text-warning mb-4 text-sm font-normal">
+                                <li data-content="✓" className="w-full step step-warning text-warning mb-4 text-sm font-normal">
                                     <div className='w-80 sm:w-96 md:w-full lg:w-full flex justify-between md:grid lg:h-max lg:grid bg-oren  rounded-xl rounded-r-3xl sm:rounded-r-3xl md:rounded-r-xl lg:rounded-r-xl md:rounded-b-3xl lg:rounded-b-3xl'>
-                                        <h3 className='rotate-90 sm:rotate-0 md:rotate-0 lg:rotate-0 md:p-1 lg:p-1 mx-auto my-auto text-putihtua font-bold'>2020-Sekarang</h3>
-                                        <div className=' w-60 lg:w-60  border border-navi p-4 rounded-xl bg-navi'>
-                                            <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
+                                        <h3 className='rotate-90 sm:rotate-0 md:rotate-0 lg:rotate-0 md:p-1 lg:p-1 mx-auto my-auto text-putihtua font-bold'>2017-2020</h3>
+                                        <div className=' w-60 lg:w-60 h-20 border border-navi p-4 rounded-xl bg-navi'>
+                                            <h3 className='text-putihtua'>SMK Negeri 1 Alian Kebumen</h3>
                                         </div>
                                     </div>
                                 </li>
-                                <li data-content="●" className="w-full step step-warning text-warning mb-4 text-sm font-normal">
+                                <li data-content="✓" className="w-full step step-warning text-warning mb-4 text-sm font-normal">
                                     <div className='w-80 sm:w-96 md:w-full lg:w-full flex justify-between md:grid lg:h-max lg:grid bg-oren  rounded-xl rounded-r-3xl sm:rounded-r-3xl md:rounded-r-xl lg:rounded-r-xl md:rounded-b-3xl lg:rounded-b-3xl'>
-                                        <h3 className='rotate-90 sm:rotate-0 md:rotate-0 lg:rotate-0 md:p-1 lg:p-1 mx-auto my-auto text-putihtua font-bold'>2020-Sekarang</h3>
-                                        <div className=' w-60 lg:w-60  border border-navi p-4 rounded-xl bg-navi'>
-                                            <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
+                                        <h3 className='rotate-90 sm:rotate-0 md:rotate-0 lg:rotate-0 md:p-1 lg:p-1 mx-auto my-auto text-putihtua font-bold'>2014-2017</h3>
+                                        <div className=' w-60 lg:w-60 h-20 border border-navi p-4 rounded-xl bg-navi'>
+                                            <h3 className='text-putihtua'>SMP Negeri 2 Karangsambung</h3>
                                         </div>
                                     </div>
                                 </li>
-                                <li data-content="●" className="w-full step step-warning text-warning mb-4 text-sm font-normal">
+                                <li data-content="✓" className="w-full step step-warning text-warning mb-4 text-sm font-normal">
                                     <div className='w-80 sm:w-96 md:w-full lg:w-full flex justify-between md:grid lg:h-max lg:grid bg-oren  rounded-xl rounded-r-3xl sm:rounded-r-3xl md:rounded-r-xl lg:rounded-r-xl md:rounded-b-3xl lg:rounded-b-3xl'>
-                                        <h3 className='rotate-90 sm:rotate-0 md:rotate-0 lg:rotate-0 md:p-1 lg:p-1 mx-auto my-auto text-putihtua font-bold'>2020-Sekarang</h3>
-                                        <div className=' w-60 lg:w-60  border border-navi p-4 rounded-xl bg-navi'>
-                                            <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
+                                        <h3 className='rotate-90 sm:rotate-0 md:rotate-0 lg:rotate-0 md:p-1 lg:p-1 mx-auto my-auto text-putihtua font-bold'>2008-2014</h3>
+                                        <div className=' w-60 lg:w-60 h-20 border border-navi p-4 rounded-xl bg-navi'>
+                                            <h3 className='text-putihtua'>SD Negeri 2 Plumbon Karangsambung</h3>
                                         </div>
                                     </div>
                                 </li>
