@@ -52,7 +52,7 @@ export default function Home() {
 
 
 
-        <div className='g-ungutua p-10 w-full h-full text-putihtua' id='resume'>
+        <div className='bg-ungutua p-10 w-full h-full text-putihtua' id='resume'>
             <div className='mt-10 text-center'>
                 <h1 className='text-xl font-bold text-putihtua'>RESUME</h1>
             </div>
@@ -86,53 +86,6 @@ export default function Home() {
                     </div>
                 </div>
                 {/* card 2 */}
-                {/* <div className='p-4 border gap-5 border-navi rounded-xl'>
-                    <div>
-                        <h2 className='font-bold'>Asep Suherman</h2>
-                        <h3 className='text-sm italic'>Junior Front End</h3>
-                        <hr className='border border-navi mt-2'/>
-                        <p className='font-normal mt-[26px] text-justify'>Mahasiswa Informatika dari Universitas Teknologi Digital Indonesia. Memiliki ketertarikan pada hal-hal terkait IT, design, dan fotografi. Memiliki kemampuan dasar sebagai Junior Front End Developer dan mempunyai minat lain di bidang fotografi.</p>
-                    </div>
-
-                                    <ul className="mt-10 steps steps-vertical lg:steps-horizontal gap-4 geser">
-                                        <li data-content="●" className="w-60 step step-warning text-warning mb-4 text-sm font-normal">
-                                            <div className='border border-putihtua'>
-                                                <h3>2020-Sekarang</h3>
-                                                <div className='mt-4 border border-navi p-4 rounded-xl bg-navi'>
-                                                    <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li data-content="●" className="w-60 step step-warning text-warning mb-4 text-sm font-normal">
-                                            <div>
-                                                <h3>2020-Sekarang</h3>
-                                                <div className='mt-4 border border-navi p-4 rounded-xl bg-navi'>
-                                                    <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li data-content="●" className="w-60 step step-warning text-warning mb-4 text-sm font-normal">
-                                            <div>
-                                                <h3>2020-Sekarang</h3>
-                                                <div className='mt-4 border border-navi p-4 rounded-xl bg-navi'>
-                                                    <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li data-content="●" className="w-60 step step-warning text-warning mb-4 text-sm font-normal">
-                                            <div>
-                                                <h3>2020-Sekarang</h3>
-                                                <div className='mt-4 border border-navi p-4 rounded-xl bg-navi'>
-                                                    <h3 className='text-putihtua'>Universitas Teknologi Digital Indonesia</h3>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                          
-
-                    
-                </div> */}
-
                 <div className='p-4 border border-navi rounded-xl'>
                     <div>
                         <h1 className='font-bold'>Asep Suherman</h1>
@@ -244,29 +197,24 @@ export default function Home() {
                 </div>
                 {/* card 7 */}
                 <div className='p-4 border border-navi rounded-xl'>
-                        <div className='text-center md:text-left'>
-                            <h1 className='font-extrabold'>Daftar Projek :</h1>
-                        </div>
-                        <ol className='grid gap-2 mt-8 lg:mt-3 list-decimal pl-4'>
-                            <li className='text-sm'>
-                                <h3 className='font-normal'>Onlook-Literacy</h3>
-                                {/* <span className='italic font-normal'>Onlook-Literacy adalah web landing page literasi online yang tujuannya untuk challenge pertama saya dalam membuat suatu website, web ini dibuat hanya dengan dengan menggunakan HTML dan Css dasar.</span> */}
-                            </li>
-                            <li className='text-sm'>
-                                <h3 className='font-normal'>Dummy Project Logo</h3>
-                                {/* <span className='italic font-normal'>Dummy Project Logo adalah web landing page yang dibuat untuk implementasi frarmework Tailwind Css dasar. web ini merupakan hasil dari pembelajaran MSIB Batch 3 di mitra Ruangguru yang dibuat dengan Framwork Tailwind Css.</span> */}
-                            </li>
-                            <li className='text-sm'>
-                                <h3 className='font-normal'>Gallery-App</h3>
-                                {/* <span className='italic font-normal'>Galeri App adalah web aplikasi yang menggunakan metode CRUD untuk menampilkan data API serta melakukan perubahan data berdasarkan interaksi user. Gallery App dibuat menggunakan librarry React Js dan framework Chakra Ui.</span> */}
-                            </li>
-
-                            <li className='text-sm'>
-                                <h3 className='font-normal'>Hermovies</h3>
-                                {/* <span className='italic font-normal'>Hermovies adalah web aplikasi yang mengkonsumsi data movies dari API. Dalam Hermovies terdapat fitur dasar untuk melakukan sorting data berdasarkan Rating, Release, dan Popularity. Aplikasi ini dibuat menggunakan librarry React Js dan framework Tailwind Css.</span> */}
-                            </li>
-                        </ol>
+                    <div className='text-center md:text-left'>
+                        <h1 className='font-extrabold'>Daftar Projek :</h1>
                     </div>
+                    <ol className='grid gap-2 mt-8 lg:mt-3 list-decimal pl-4'>
+                        <li className='text-sm'>
+                            <h3 className='font-normal'>Onlook-Literacy</h3>
+                        </li>
+                        <li className='text-sm'>
+                            <h3 className='font-normal'>Dummy Project Logo</h3>
+                        </li>
+                        <li className='text-sm'>
+                            <h3 className='font-normal'>Gallery-App</h3>
+                        </li>
+                        <li className='text-sm'>
+                            <h3 className='font-normal'>Hermovies</h3>
+                        </li>
+                    </ol>
+                </div>
             </div>
         </div>
 
@@ -297,7 +245,7 @@ export default function Home() {
             <div className='mt-10 mx-auto'>
                 <span className='text-xl font-bold text-putihtua'>PROJEK</span>
             </div>
-            <div className='mt-10 p-8 grid gap-8 grid-cols-1 md:grid-cols-2'>
+            <div className='mt-28 px-8 pb-2 grid grid-cols-1 md:grid-cols-2 gap-10 rounded-xl'>
                 <div className=''>
                     <a href="https://onlook-literacy-asep-suherman.netlify.app/">
                         <img src='../asset/project/1.png' alt='' className='rounded-xl'/>
