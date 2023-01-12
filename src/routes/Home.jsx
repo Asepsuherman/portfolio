@@ -205,7 +205,7 @@ export default function Home() {
                         <h1 className='font-extrabold'>Keterampilan :</h1>
                     </div>
                     <div>
-                        <ol className='list-decimal grid grid-rows-3 grid-flow-col gap-2 pl-4 mt-2'>
+                        <ol className='grid gap-2 mt-8 lg:mt-3 list-decimal pl-4 grid-rows-3 grid-flow-col'>
                             <li className='text-sm font-normal'>Thinking Skill</li>
                             <li className='text-sm font-normal'>Project Management Tech</li>
                             <li className='text-sm font-normal'>Communication & Presentation Skill</li>
@@ -247,7 +247,7 @@ export default function Home() {
                         <div className='text-center md:text-left'>
                             <h1 className='font-extrabold'>Daftar Projek :</h1>
                         </div>
-                        <ol className='list-decimal mt-3 grid gap-2 pl-4'>
+                        <ol className='grid gap-2 mt-8 lg:mt-3 list-decimal pl-4'>
                             <li className='text-sm'>
                                 <h3 className='font-normal'>Onlook-Literacy</h3>
                                 {/* <span className='italic font-normal'>Onlook-Literacy adalah web landing page literasi online yang tujuannya untuk challenge pertama saya dalam membuat suatu website, web ini dibuat hanya dengan dengan menggunakan HTML dan Css dasar.</span> */}
